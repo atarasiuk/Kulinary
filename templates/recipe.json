@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Дорада целиком в духовке",
+  "identifier": "dorada-v-duhovke",
+  "url": "recipes/dinners/fish/dorada-v-duhovke.md",
+  "inLanguage": "ru",
+  "recipeCategory": "Основное блюдо",
+  "recipeCuisine": "Домашняя",
+  "keywords": "рыба, духовка, воскресенье",
+  "recipeYield": "2 порции",
+  "prepTime": "PT25M",
+  "cookTime": "PT25M",
+  "totalTime": "PT55M",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "350 ккал"
+  },
+  "suitableForDiet": "https://schema.org/LowLactoseDiet",
+  "tool": ["форма для запекания от 30 см", "термометр-щуп", "две широкие лопатки"],
+  "recipeIngredient": [
+    "Дорада охлаждённая, выпотрошенная, 400–500 г — 2 шт.",
+    "Соль — 8 г",
+    "Смесь специй для рыбы — 4 г",
+    "Оливковое масло — 30 мл",
+    "Лимон — 1 шт."
+  ],
+  "recipeInstructions": [
+    { "@type": "HowToStep", "position": 1, "text": "Промыть и обсушить рыбу, сделать по 3 надреза глубиной 1 см на каждом боку." },
+    { "@type": "HowToStep", "position": 2, "text": "Посолить, посыпать специями, оставить на 15 минут." },
+    { "@type": "HowToStep", "position": 3, "text": "Запекать при 200 °C (верх-низ) 20–25 минут до 63 °C у головы." },
+    { "@type": "HowToStep", "position": 4, "text": "Дать постоять 5 минут, переложить двумя лопатками." }
+  ],
+  "isBasedOn": [
+    "https://www.djurenko.com/cooking/osnovnye-blyuda/dorado-v-duxovke.html",
+    "https://ekorfish.com/blog/retsepty/kak-prigotovit-dorado/"
+  ],
+  "additionalProperty": [
+    { "@type": "PropertyValue", "name": "status", "value": "не готовил" },
+    { "@type": "PropertyValue", "name": "difficulty", "value": 2, "maxValue": 5 },
+    { "@type": "PropertyValue", "name": "activeTime", "value": "PT15M" },
+    { "@type": "PropertyValue", "name": "days", "value": "воскресенье" },
+    { "@type": "PropertyValue", "name": "lactose", "value": "нет" }
+  ]
+}

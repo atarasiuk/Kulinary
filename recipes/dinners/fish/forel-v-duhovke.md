@@ -1,7 +1,33 @@
+---
+title: Стейк или филе форели в духовке
+slug: forel-v-duhovke
+category: dinners
+subcategory: fish
+status: не готовил
+servings: 2
+prep_time: PT20M
+cook_time: PT20M
+active_time: PT10M
+total_time: PT45M
+difficulty: 1
+kcal_per_serving: 400
+lactose: нет
+days: [воскресенье]
+tags: [духовка, стейк]
+equipment: [фарфоровая форма для запекания, термометр-щуп]
+sources:
+  - https://www.iamcook.ru/publications/show/trout-baking-time
+  - https://eda.rambler.ru/media/recepty/forel-v-duhovke-kak-prigotovit-rybu-celikom-steyki-ili-file
+  - https://lifehacker.ru/forel-v-duxovke-recepty
+  - https://doh.wa.gov/community-and-environment/food/fish/health-benefits/healthy-fish-recipes
+cooked: []
+rating:
+---
+
 # Стейк или филе форели в духовке
 
 ## Кратко
-- уточнённая версия —  пока по ней не готовил
+- Статус: не готовил (уточнённая версия)
 - Порции: 2
 - Подготовка: 20 минут (из них 15 минут рыба лежит с солью)
 - Приготовление: 15–20 минут при 180 °C + 5 минут отдыха
@@ -69,7 +95,7 @@
 - Лимонный сок не «запечатывает» рыбу и сок внутри не удерживает. Сочность сохраняют масло и правильное время. Поэтому сока немного и только перед духовкой, а основная часть — в тарелке.
 - Добавлены точные количества, время по толщине и проверка готовности по температуре.
 
-## Источники
+## Источник и адаптация
 - Время 15–20 минут при 180 °C для стейков и филе форели: https://www.iamcook.ru/publications/show/trout-baking-time
 - Филе кожей вниз; поправка на конвекцию: https://eda.rambler.ru/media/recepty/forel-v-duhovke-kak-prigotovit-rybu-celikom-steyki-ili-file
 - Внутренняя температура 63 °C, стейки 15–20 минут: https://lifehacker.ru/forel-v-duxovke-recepty

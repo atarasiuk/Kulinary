@@ -1,3 +1,30 @@
+---
+title: Дорада целиком в духовке
+slug: dorada-v-duhovke
+category: dinners
+subcategory: fish
+status: не готовил
+servings: 2
+prep_time: PT25M
+cook_time: PT25M
+active_time: PT15M
+total_time: PT55M
+difficulty: 2
+kcal_per_serving: 350
+lactose: нет
+days: [воскресенье]
+tags: [духовка, рыба целиком]
+equipment: [форма для запекания от 30 см, термометр-щуп, две широкие лопатки]
+sources:
+  - https://candoru.ru/zapechyonnaya-ryba-celikom-recept/
+  - https://www.djurenko.com/cooking/osnovnye-blyuda/dorado-v-duxovke.html
+  - https://ekorfish.com/blog/retsepty/kak-prigotovit-dorado/
+  - https://globalcook.ru/faq/skolko-vremeni-nuzhno-zapekat-dorado/
+  - https://smartkitchenkit.com/how-to-cook-sea-bream-in-oven/
+cooked: []
+rating:
+---
+
 # Дорада целиком в духовке
 
 ## Кратко
